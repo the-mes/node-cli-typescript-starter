@@ -14,7 +14,7 @@ program
   .description(pkg.description)
   .usage('<options>')
   .option('-b, --blue', 'display message in blue')
-  .action();
+  .action(example);
 
 program.on('command:*', (commands?: string[]) => {
   if (commands) {
@@ -27,7 +27,7 @@ program.on('command:*', (commands?: string[]) => {
 program.on('--help', () => {
   console.log(
     chalk.magentaBright(
-      figlet.textSync('Node.js CLI\nTypeScript starter', {
+      figlet.textSync('Node.js CLI\nTypeScript\nstarter', {
         horizontalLayout: 'full',
         verticalLayout: 'full',
       })

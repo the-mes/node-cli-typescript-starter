@@ -34,7 +34,7 @@ $ yarn global add node-cli-typescript-starter
 $ node-cli-typescript-starter <options>
 ```
 
-**Instead of `node-cli-typescript-starter` you can use aliases: `TODO` & `TODO`**
+**Instead of `node-cli-typescript-starter` you can use aliases: `ncts` & `node-starter`**
 
 ## Options
 

@@ -30,8 +30,8 @@
   "homepage": "https://github.com/the-mes/node-cli-typescript-starter#readme",
   "bin": {
     "node-cli-typescript-starter": "bin/index.js",
-    "TODO": "bin/index.js",
-    "TODO": "bin/index.js"
+    "ncts": "bin/index.js",
+    "node-starter": "bin/index.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
