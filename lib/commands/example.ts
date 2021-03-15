@@ -1,7 +1,10 @@
 import chalk from 'chalk';
 
-// TODO type
-const example = ({ blue }: any) => {
+interface Params {
+  readonly blue: boolean;
+}
+
+const example = ({ blue }: Params) => {
   if (blue) {
     return console.log(chalk.blue(`I'm blue, da ba dee da ba daa`));
   }
