@@ -1,13 +1,13 @@
-# [Where is my Node](https://github.com/awesome-cli/where-is-my-node)
+# [Node.js CLI TypeScript starter](https://github.com/the-mes/node-cli-typescript-starter)
 
-[![NPM version](https://img.shields.io/npm/v/where-is-my-node?style=flat-square)](https://www.npmjs.com/package/where-is-my-node)
-[![NPM downloads](https://img.shields.io/npm/dm/where-is-my-node?style=flat-square)](https://www.npmjs.com/package/where-is-my-node)
+[![NPM version](https://img.shields.io/npm/v/node-cli-typescript-starter?style=flat-square)](https://www.npmjs.com/package/node-cli-typescript-starter)
+[![NPM downloads](https://img.shields.io/npm/dm/node-cli-typescript-starter?style=flat-square)](https://www.npmjs.com/package/node-cli-typescript-starter)
 
 ## About
 
-Get Node.js location (geolocation and directory on your disk)
+Template for Node.js CLI TypeScript app
 
-**If you use Deno, please check out [where-is-my-deno](https://github.com/awesome-cli/where-is-my-deno)**
+<!-- TODO deno alternative -->
 
 ## Prerequisites
 
@@ -19,28 +19,27 @@ Get Node.js location (geolocation and directory on your disk)
 First, install the CLI by npm:
 
 ```sh
-$ npm install -g where-is-my-node
+$ npm install -g node-cli-typescript-starter
 ```
 
 Or Yarn:
 
 ```sh
-$ yarn global add where-is-my-node
+$ yarn global add node-cli-typescript-starter
 ```
 
 ## How to Use
 
 ```sh
-$ where-is-my-node <options>
+$ node-cli-typescript-starter <options>
 ```
 
-**Instead of `where-is-my-node` you can use aliases: `my-node` & `wimn`**
+**Instead of `node-cli-typescript-starter` you can use aliases: `TODO` & `TODO`**
 
 ## Options
 
-- `-g, --geo` output computer geolocation
-- `-d, --disk` output directory on disk
+- `-b, --blue` display message in blue
 
 ## License
 
-This project is licensed under the MIT License © 2019-present Jakub Biesiada
+This project is licensed under the MIT License © 2021-present Jakub Biesiada

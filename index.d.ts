@@ -1,1 +1,1 @@
-declare module 'npm-path';
+// place for type defs
