@@ -1,6 +1,6 @@
 {
   "name": "node-cli-typescript-starter",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Template for Node.js CLI TypeScript app",
   "author": "Jakub Biesiada",
   "license": "MIT",
