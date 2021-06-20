@@ -19,19 +19,19 @@ Template for Node.js CLI TypeScript app
 First, install the CLI by npm:
 
 ```sh
-$ npm install -g node-cli-typescript-starter
+npm install -g node-cli-typescript-starter
 ```
 
 Or Yarn:
 
 ```sh
-$ yarn global add node-cli-typescript-starter
+yarn global add node-cli-typescript-starter
 ```
 
 ## How to Use
 
 ```sh
-$ node-cli-typescript-starter <options>
+node-cli-typescript-starter <options>
 ```
 
 **Instead of `node-cli-typescript-starter` you can use aliases: `ncts` & `node-starter`**
